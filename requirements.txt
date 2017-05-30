@@ -1,0 +1,6 @@
+HTMLParser==0.0.2
+oauthlib==2.0.2
+requests==2.14.2
+requests-oauthlib==0.8.0
+six==1.10.0
+tweepy==3.5.0
