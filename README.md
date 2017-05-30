@@ -1,5 +1,5 @@
 # StackOverflowPopular
-Twitter bot fetching popular stackoverflow posts
+Twitter bot fetching popular stackoverflow posts. Check it out [Live](https://twitter.com/StackPopular).
 
 ## Installation
 Build your own StackOverflowPopular Bot, maybe specific to the languages/tags you are interested in.
